@@ -1,6 +1,5 @@
 ---
 layouts_gallery:
-permalink: /about/
 title: "About"
 ---
 Love Economics and Politics
