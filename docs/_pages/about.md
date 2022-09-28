@@ -1,5 +1,5 @@
 ---
-layouts_gallery:
+layout: post
 title: "About"
 ---
 Love Economics and Politics

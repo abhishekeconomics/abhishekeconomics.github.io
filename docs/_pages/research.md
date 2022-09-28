@@ -1,5 +1,5 @@
 ---
-layouts_gallery:
+layout: post
 title: "Research"
 permalink: /research/
 ---
