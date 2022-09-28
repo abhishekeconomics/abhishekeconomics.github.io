@@ -1,8 +1,8 @@
 main:
   - title: "About me"
-    url: /about/
-  - title: "Posts"
-    url: ""
+    url: 
+  - title: "Blog"
+    url: "/blog/"
   - title: "Research Summary"
     url: /research/
   - title: "Publications"
