@@ -1,7 +1,7 @@
 ---
+layouts_gallery:
 permalink: /about/
 title: "About"
-layouts_gallery:
 ---
 Love Economics and Politics
 
