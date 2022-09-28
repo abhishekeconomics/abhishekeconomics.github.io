@@ -1,5 +1,8 @@
 
 main:
-  - title: "Research"
-    url: /_pages/research/
- 
+  - title: "About"
+    url: /pages/about/
+ - title: "Research"
+    url: /pages/research/
+ - title: "Publication"
+    url: /pages/publications/
