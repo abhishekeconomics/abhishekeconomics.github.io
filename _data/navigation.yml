@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: abhishekeconomics.github.io
   - title: "About"
-    url: "/pages/about"
+    url: "docs/_pages/about"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
