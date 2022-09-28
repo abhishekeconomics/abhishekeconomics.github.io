@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post!
+permalink: /research/
 ---
 
 -The Indian economy is facing a macroeconomic crisis. The external imbalance (whether measured by the trade balance or the current account) is well beyond what can be called normal. The nominal value of the rupee has fallen more than the currencies of other emerging market economies this year. Our finance minister has come under lots of criticism for his ignorance about the definition of current account. He (and many others) defines it as dollar payments less dollar receipts. Truly speaking his ignorance is the main reason for ill designed policies and obsession with foreign exchange inflows. He based on his understanding is doing everything possible to attract foreign inflows through foreign direct investment, foreign institutional investment, external commercial borrowings or ECBs (which are capital account items). India has received over nine billion dollars from two foreign schemes, which were announced in September to attract foreign funds and help the country to bridge the widening current account deficit (CAD).
