@@ -3,7 +3,7 @@ main:
     url: /about/
   - title: "Posts"
     url: /years/
-  - title: "Pages"
-    url: /pages/
-  - title: "Tags"
-    url: /tags/
+  - title: "Research Summary"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
