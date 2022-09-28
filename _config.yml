@@ -105,14 +105,14 @@ analytics:
 # Site Author
 author:
   name             : # "Abhishek Kumar"
-  avatar           : # "/assets/Image1.jpeg"
-  bio              : # "PhD (IGIDR)"
-  location         : # "New Delhi"
+  avatar           :  "/assets/Image1.jpeg"
+  bio              :  "PhD (IGIDR)"
+  location         :  "New Delhi"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "abhishek@south.du.ac.in"
+       url: "abhishek@south.du.ac.in"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://abhishekeconomics.github.io/"
