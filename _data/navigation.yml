@@ -1,12 +1,13 @@
+
 # main links
 main:
-  
-   - title: "About"
-    url: https://abhishekeconomics.github.io/about
-  # - title: "Blog"
-  # url: https://abhishekeconomics.github.io/blog/
-  #  - title: "Research"
-  #url: https://abhishekeconomics.github.io/research/
- # - title: "Publication"
-  -url: https://abhishekeconomics.github.io/publications/
-  
+  - title: "Quick-Start Guide"
+    url: https://abhishekeconomics.github.io/quick-start-guide/
+  # - title: "About"
+  #   url: https:///abhishekeconomics.github.io/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
