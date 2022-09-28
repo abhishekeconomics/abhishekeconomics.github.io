@@ -20,9 +20,7 @@ title                    : "Abhishek Kumar, PhD"
 title_separator          : ""
 subtitle                 : #
 name                     : #
-description              : "Thank you for visiting my website!
-I recently finished PhD at Indira Gandhi Institute of Development Research, Mumbai and currently working as Associate Fellow at CSEP (formerly Brookings India).  During 2019-20, I was a visiting researcher at University College London (UCL). My research interests are in structural macro-econometrics, new Keynesian and heterogeneous agents new Keynesian models and applied econometrics. You can find my research in detail on the research page. 
-If you are interested in my research or have any feedback/comments/queries, you can contact me:"
+description              : # 
 url                      : "https://abhishekeconomics.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "abhishekeconomics/https://abhishekeconomics.github.io"
@@ -107,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Abhishek Kumar"
-  avatar           : # path of avatar image, e.g. "/assets/Image1.jpeg"
-  bio              : "Thank you for visiting my website!
+  avatar           : "/assets/Image1.jpeg"
+  bio              : "PhD (IGIDR)"
 I recently finished PhD at Indira Gandhi Institute of Development Research,
  Mumbai and currently working as Associate Fellow at CSEP 
  (formerly Brookings India).  During 2019-20, 
