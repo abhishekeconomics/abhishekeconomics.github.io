@@ -1,6 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
+layouts_gallery:
 ---
 
 ### Indian Growth is Not Overestimated: Mr. Subramanian You Got it Wrong
