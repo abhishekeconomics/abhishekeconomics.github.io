@@ -291,4 +291,4 @@ defaults:
       share: true
       related: true
 
-include: ["_pages"]
+include: ["pages"]
