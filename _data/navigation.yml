@@ -1,6 +1,6 @@
 main:
   - title: "About me"
-    url: 
+    url: "/about/"
   - title: "Blog"
     url: "/blog/"
   - title: "Research Summary"
