@@ -1,5 +1,4 @@
 ---
-layouts_gallery:
 title: "Research"
 permalink: /research/
 ---
