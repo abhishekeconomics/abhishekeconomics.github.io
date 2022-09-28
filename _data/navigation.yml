@@ -2,7 +2,7 @@ main:
   - title: "About me"
     url: /about/
   - title: "Posts"
-    url: "https://abhishekeconomics.github.io"
+    url: ""
   - title: "Research Summary"
     url: /research/
   - title: "Publications"
