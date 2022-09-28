@@ -1,4 +1,5 @@
 ---
+layouts_gallery:
 permalink: /about/
 title: "About"
 ---
