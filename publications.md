@@ -1,7 +1,7 @@
 ---
-layout: single
 title: "Publications"
 permalink: /publications/
+layout: single
 ---
 
 #### Indian Growth is Not Overestimated: Mr. Subramanian You Got it Wrong (With Ashima Goyal) Accepted Macroeconomics and Finance in Emerging Market Economies 
