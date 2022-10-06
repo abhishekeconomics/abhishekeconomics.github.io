@@ -105,42 +105,42 @@ analytics:
 # Site Author
 author:
   name             : "Abhishek Kumar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/Image1.jpg"
   bio              : "PhD"
   location         : "New Delhi"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:akumar@csep.org"
+        #url: "mailto:akumar@csep.org"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://your-website.com"
+        #url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/mostlyeconmix"
+        #url: "https://twitter.com/mostlyeconmix"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url: "https://facebook.com/abhishekeconomics"
+        #url: "https://facebook.com/abhishekeconomics"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/abhishekeconomics"
+        #url: "https://github.com/abhishekeconomics"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/"
+        #url: "https://instagram.com/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/mostlyeconmix"
+        #url: "https://twitter.com/mostlyeconmix"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-       url:"https://facebook.com/abhishekeconomics"
+        #url:"https://facebook.com/abhishekeconomics"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url:"https://github.com/abhishekeconomics"
+        #url:"https://github.com/abhishekeconomics"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
