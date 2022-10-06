@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Research"
+title: "Research Summary"
 permalink: /research/
 ---
 
