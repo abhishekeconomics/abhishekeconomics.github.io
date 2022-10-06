@@ -1,5 +1,5 @@
 ---
-layout: post
+layouts_gallery:
 title: "Publications"
 permalink: /publications/
 ---
