@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Research Summary"
 permalink: /research/
 ---
