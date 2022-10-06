@@ -1,8 +1,8 @@
 main:
   - title: "About"
-    url: https://abhishekeconomics.github.io/
+    url: /about/
   - title: "Blog"
-    url: "/blog/"
+    url: /blog/
   - title: "Research Summary"
     url: /research/
   - title: "Publications"

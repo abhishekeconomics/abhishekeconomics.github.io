@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "About"
+permalink: /about/
 ---
 Love Economics and Politics
 
