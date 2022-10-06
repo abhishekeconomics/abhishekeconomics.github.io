@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Research Summary"
 permalink: /research/
 ---
